@@ -1,6 +1,8 @@
 {
   "name": "aws-iot-device-sdk-embedded-C",
-  "releases": [],
+  "releases": [
+    "202211.00"
+  ],
   "branches": [
     "main"
   ]
